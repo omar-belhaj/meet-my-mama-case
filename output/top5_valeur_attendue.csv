@@ -1,0 +1,6 @@
+﻿acheteur,date_limite,priorite_script,montant_HT,montant_publie,conso,valeur_captable,nb_prestations,p_gain,valeur_attendue,hypothese
+Ville d'Elancourt,2026-11-06,63.2,90000,True,0.6,54000.0,22,0.2,10800,Vœux du Maire d'Élancourt : besoin récurrent et visible ; montant accessible
+MAIRIE DE ROMAINVILLE,2026-11-06,60.0,50000,True,0.6,30000.0,12,0.2,6000,"Romainville (93) : traiteurs ET boulangeries artisanales, la valeur porte sur la part traiteur"
+CCAS de la ville de Chevilly-Larue,2026-11-09,56.2,160000,True,0.8,128000.0,51,0.15,19200,Banquet des aînés du CCAS de Chevilly-Larue : volume ferme ; animation à sous-traiter
+CCAS de Créteil,2026-11-16,34.8,20000,False,1.0,20000.0,8,0.2,4000,"Banquet seniors de Créteil (janv. 2027) : montant non publié, hypothèse 500 x 40 EUR HT"
+Mairie de Villeneuve-la-Garenne,2026-11-30,47.3,340000,True,0.6,204000.0,82,0.12,24480,"Villeneuve-la-Garenne (92), à 10 min de Nanterre ; gros volume donc plus de concurrence"

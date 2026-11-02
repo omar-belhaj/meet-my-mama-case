@@ -1,0 +1,27 @@
+Exécution : 2026-10-27 19:36 UTC | fenêtre de parution depuis 2026-04-30
+Requête 'traiteur' : 7687 avis bruts
+Requête 'cocktail' : 113 avis bruts
+Requête 'buffet' : 91 avis bruts
+Requête 'plateaux repas' : 253 avis bruts
+Requête 'réception' : 9900 avis bruts
+Requête 'pause café' : 42 avis bruts
+Requête 'prestations de restauration' : 1964 avis bruts
+Requête 'restauration événementielle' : 59 avis bruts
+Requête 'séminaire restauration' : 22 avis bruts
+Requête 'banquet' : 56 avis bruts
+Requête 'repas des seniors' : 74 avis bruts
+Requête 'repas des aînés' : 17 avis bruts
+Requête 'cérémonie' : 83 avis bruts
+Requête 'dîner' : 180 avis bruts
+Requête 'cocktail déjeunatoire' : 15 avis bruts
+Doublons inter-requêtes supprimés : 3425 (reste 17131)
+Date limite absente ou illisible : 4994
+Sans département renseigné : 0
+Rejet - hors Île-de-France : 13672
+Avis d'attribution mis de côté (signal de renouvellement) : 733
+Rejet - date limite dépassée : 1940
+Rectificatifs / republications fusionnés : 81
+Rejet - hors cible (pas de besoin traiteur explicite ou score < 10) : 683
+Valeur estimée trouvée pour 9/22 avis (extraction heuristique, à vérifier)
+Avis avec exclusion (restauration collective, etc.) conservés mais pénalisés : 0
+OPPORTUNITÉS FINALES : 22
